@@ -34,3 +34,10 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Mock-Up
 
+
+
+https://user-images.githubusercontent.com/115047281/228118221-bc46fe52-0a61-4090-82f4-ec26fadfb1ef.mov
+
+
+
+© 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
